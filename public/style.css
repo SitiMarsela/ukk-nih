@@ -1,0 +1,73 @@
+body{
+    overflow-x: hidden;
+    width: 100vw;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+    scroll-behavior: smooth;
+}
+
+.navbar {
+    background-image: linear-gradient(to right,#000046, #1CB5E0);
+}
+.container1 {
+    padding-top: 6%;
+    background-image: linear-gradient(to right, #000046, #1CB5E0);
+    width: 100wh;
+}
+.container1 img {
+    height: 400px;
+    
+}
+
+.header{
+    padding-bottom: 6%;
+}
+
+
+/* abot us */
+.container2 img{
+    height: 400px;  
+}
+
+.container2 .garis {
+    width: 220px;
+    height: 10px;
+    position: relative;
+    border-bottom: 2px solid #89216B;
+    margin: -15px auto 0;
+}
+
+/* PROSEDUR */
+.container3 {
+    margin-top: 5%;
+    /* margin-bottom: 50px; */
+    background-image: linear-gradient(to right, #000046, #1CB5E0);
+    width: 100vw;
+}
+.garis {
+    width: 220px;
+    height: 10px;
+    position: relative;
+    border-bottom: 2px solid #f1eff1;
+    margin: -15px auto 0;
+}
+ .container3 img {
+    height: 150px;
+    margin-top: 20px;
+    margin-bottom: 30px;
+    
+}
+.font14 {
+    font-size: 14px;
+}
+
+.container4 {
+    /* margin-bottom: 50px; */
+    background-image: linear-gradient(to right, #000046, #1CB5E0);
+    width: 100vw;
+}
